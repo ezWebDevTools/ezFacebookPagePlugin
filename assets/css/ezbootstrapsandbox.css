@@ -1,0 +1,143 @@
+.intro{
+	text-align: center;
+	margin-bottom: 20px
+}
+
+body{
+	font-family: 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Days One', sans-serif 
+}
+
+a {
+	color: #3b5998;
+	cursor: pointer;
+}
+
+a:hover{
+	color: #3b5998;
+}
+
+.fb-cdn-1{
+background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yf/r/cBcXNHiVxzZ.png);
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.fb-cdn-2{
+background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y1/r/LVx-xkvaJ0b.png);
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.fb-page-divider-box{
+border-bottom: 1px solid #d8dfea
+}
+
+.fb-widget-wrapper{
+border: 1px solid #000;
+padding:10px
+}
+
+.fb-page-wrap{
+padding-bottom:5px
+}
+
+.fb-page-img{
+background-color:#000;
+height:50px;
+width:50px;
+float: left;
+margin-right: 5px
+}
+
+.fb-page-name{
+color: #3b5998;
+font-size: 13px;
+font-weight: bold;
+line-height: 1.0;
+margin-top: 2px;
+}
+
+.fb-page-verified{
+margin-bottom: -2px;
+height: 14px;
+width: 14px;
+display:inline-block;
+background-position: 0 -338px;
+}
+
+.fb-page-like-button a{
+	color: #fff;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #4c69ba;
+	display: inline-block;
+	border-radius: 2px;
+	padding: 2px 5px
+}
+
+.fb-page-like-button a{
+	color: #fff;
+	text-decoration: none
+}
+
+.fb-page-like-f-logo-rev{
+margin-bottom: -3px;
+height: 14px;
+width: 14px;
+display: inline-block;
+background-position: 0 -42px
+
+}
+
+.fb-page-like-count{
+  font-size: 11px;
+  margin-left: 5px;
+  margin-top: 7px
+}
+
+.fb-page-people-who-like{
+  margin-bottom: 3px
+}
+
+.fb-page-people-who-like ul {
+	list-style: none;
+	padding:0;
+}
+
+.fb-page-people-who-like li {
+	float: left;
+	margin: 0 3px 3px 0
+}
+
+/* TODO - remove */
+.faux-img{
+  height:50px;
+  width: 50px;
+  display: inline-block
+}
+/* TODO - remove */
+.fi-1{
+	  background-color: #666;
+}
+/* TODO - remove */
+.fi-2{
+	  background-color: #999;
+}
+
+.widget-credits{
+	font-size: 9px;
+	padding-top:6px;
+	margin-left: 5px
+}
+
+.widget-credits-f-logo{
+	margin-bottom: -4px;
+  height: 14px;
+  width: 14px;
+  display: inline-block;
+  background-position: -15px -42px;
+}
